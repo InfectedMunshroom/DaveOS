@@ -1,0 +1,3 @@
+teal:- #27BDCC
+white:- #FFFFFF
+black:- #303136
